@@ -7,8 +7,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
+@interface ViewController : UIViewController{
+    
+    UILabel *lblText;
+    UITextField *textInputClick;
+    
+}
+    
 @end
+
 

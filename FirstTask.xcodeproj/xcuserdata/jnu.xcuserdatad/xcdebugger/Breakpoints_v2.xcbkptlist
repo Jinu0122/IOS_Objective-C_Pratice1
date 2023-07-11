@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2C5B7EE4-269A-47BA-91B1-04DFCB9DB3BA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02BCB555-BD37-4974-BD76-068FC8DE696D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirstTask/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "-onBtnTouch:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "02BCB555-BD37-4974-BD76-068FC8DE696D - bfbdabe06d6801e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController viewDidLoad]"
+                  moduleName = "FirstTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jnu/Desktop/ios/project/FirstTask/FirstTask/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "02BCB555-BD37-4974-BD76-068FC8DE696D - 8585b9b1d649afad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController onTouch:]"
+                  moduleName = "FirstTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jnu/Desktop/ios/project/FirstTask/FirstTask/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "02BCB555-BD37-4974-BD76-068FC8DE696D - 8585b9b1d649a029"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController onTouch:]"
+                  moduleName = "FirstTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jnu/Desktop/ios/project/FirstTask/FirstTask/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB969406-5C01-4D77-8A89-145750F4BFC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirstTask/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB969406-5C01-4D77-8A89-145750F4BFC0 - bfbdabe06d680349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController viewDidLoad]"
+                  moduleName = "FirstTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jnu/Desktop/ios/project/FirstTask/FirstTask/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "DB969406-5C01-4D77-8A89-145750F4BFC0 - bfbdabe06d680349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController viewDidLoad]"
+                  moduleName = "FirstTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jnu/Desktop/ios/project/FirstTask/FirstTask/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
